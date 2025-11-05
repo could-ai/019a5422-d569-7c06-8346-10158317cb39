@@ -206,7 +206,7 @@ class _BrandGeneratorScreenState extends State<BrandGeneratorScreen> {
                   ),
                 ),
               ),
-              if (_hasGenerated) ..[
+              if (_hasGenerated) ...[
                 const SizedBox(height: 24),
                 Card(
                   elevation: 3,
